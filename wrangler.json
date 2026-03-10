@@ -1,4 +1,12 @@
 {
-	"compatibility_date": "2025-10-08",
-	"main": "index.html",
+  "name": "mlopezcobaes-para-www-tintoreriaslafamiliar",
+  "compatibility_date": "2025-04-01",
+  "minify": false,
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+      "directory": "./"
+  },
+  "upload_source_maps": true
 }
